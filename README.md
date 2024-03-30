@@ -18,5 +18,4 @@ Check out the live demo here - [Click](https://ecommercedpk.netlify.app/)
 - React: Frontend framework for building the user interface
 - Redux: State management library for managing global application state
 - Tailwind CSS: Utility-first CSS framework for styling
-- Node.js: JavaScript runtime for building server-side logic (if applicable)
 - Vite: for Fast Refresh. HMR and some ESLint rules
