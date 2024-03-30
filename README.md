@@ -4,7 +4,7 @@ Welcome to our e-commerce website! This project is a simple online marketplace w
 
 ## Live Demo
 
-Check out the live demo here - [text](https://ecommercedpk.netlify.app/)
+Check out the live demo here - [Click](https://ecommercedpk.netlify.app/)
 
 ## Features
 
